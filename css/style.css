@@ -1,0 +1,212 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+}
+
+section {
+    padding: 75px 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.menu {
+    margin-right: 50px;
+    padding: 15px 0px;
+    float: right;
+}
+
+.menu li {
+    margin-right: 12px;
+    display: inline-block;
+}
+
+.menu li a {
+    display: inline-block;
+    color: #363958;
+    text-decoration: none;
+    padding: 6px 16px;
+    font-size: 18px;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+}
+
+.header-content {
+    margin-top: 60px;
+}
+
+h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 38px;
+    text-transform: uppercase;
+}
+
+h3 {
+    margin-top: 15px;
+    font-size: 24px;
+}
+
+p {
+    margin-top: 12px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.top-banner {
+    background: url('../images/top-banner.jpg');
+    background-repeat: no-repeat;
+    box-shadow: 0 30px 50px -35px #1c1e2333;
+}
+
+.top-banner p {
+    width: 65%;
+}
+
+.highlight {
+    color: #FF8367;
+    font-weight: 600;
+}
+
+.link-button {
+    padding: 12px 30px;
+    font-size: 18px;
+    color: #fff;
+    background: #FF8367;
+    border-radius: 5px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.download-icon {
+    margin-right: 5px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.about-content {
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.work-area {
+    background: #f2f2f280;
+}
+
+.work-area h2 {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.work-area img {
+    width: 100%;
+}
+
+.one-third {
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+
+.my-work {
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px 0px gray;
+}
+
+.client-area {
+    text-align: center;
+}
+
+.one-fourth {
+    width: 20%;
+    float: left;
+    margin-left: 4%;
+}
+
+.client-img {
+    margin-top: 45px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.load-button {
+    clear: left;
+    text-align: center;
+}
+
+.load-button a {
+    margin-top: 20px;
+}
+
+.inquiry-area {
+    text-align: center;
+    background: #f2f2f280;
+}
+
+.inquiry {
+    margin: 12px auto;
+    width: 50%;
+    height: 167px;
+    color: #fff;
+    background: url('../images/inquiry-bg.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.inquiry h2 {
+    margin-top: 55px;
+}
+
+.chat-button {
+    text-transform: capitalize;
+    margin-top: 55px;
+    margin-left: 110px;
+}
+
+.connected {
+    margin-top: 40px;
+}
+
+.connected h4 {
+    font-size: 18px;
+}
+
+.connected h3 {
+    margin-top: 8px;
+}
+
+.social-icon img {
+    margin-top: 15px;
+    margin-left: 8px;
+    width: 35px;
+}
+
+footer p {
+    text-align: center;
+}
